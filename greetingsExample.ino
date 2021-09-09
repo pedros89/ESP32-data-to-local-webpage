@@ -5,7 +5,7 @@ WebServer server(80);
 const char* ssid = "put your wifi network here";
 const char* password =  "put your wifi password";
 
-String saluto = "how are you?";
+String greeting = "how are you?";
              
 
 // HTML & CSS contents which display on web server
